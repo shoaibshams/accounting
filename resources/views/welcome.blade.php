@@ -334,7 +334,7 @@
                                     <div class="row">
                                         <div class="col-auto">
                                                         <span class="avatar"
-                                                              style="background-image: url(./static/avatars/002m.jpg)"></span>
+                                                              style="background-image: url({{ asset('back/static/avatars/002m.jpg') }})"></span>
                                         </div>
                                         <div class="col">
                                             <div class="text-truncate">
@@ -352,7 +352,7 @@
                                     <div class="row">
                                         <div class="col-auto">
                                                         <span class="avatar"
-                                                              style="background-image: url(./static/avatars/003m.jpg)"></span>
+                                                              style="background-image: url({{ asset('back/static/avatars/003m.jpg') }})"></span>
                                         </div>
                                         <div class="col">
                                             <div class="text-truncate">
@@ -370,7 +370,7 @@
                                     <div class="row">
                                         <div class="col-auto">
                                                         <span class="avatar"
-                                                              style="background-image: url(./static/avatars/000f.jpg)"></span>
+                                                              style="background-image: url({{ asset('back/static/avatars/000f.jpg') }})"></span>
                                         </div>
                                         <div class="col">
                                             <div class="text-truncate">
@@ -388,7 +388,7 @@
                                     <div class="row">
                                         <div class="col-auto">
                                                         <span class="avatar"
-                                                              style="background-image: url(./static/avatars/001f.jpg)"></span>
+                                                              style="background-image: url({{ asset('back/static/avatars/001f.jpg') }})"></span>
                                         </div>
                                         <div class="col">
                                             <div class="text-truncate">
@@ -416,7 +416,7 @@
                                     <div class="row">
                                         <div class="col-auto">
                                                         <span class="avatar"
-                                                              style="background-image: url(./static/avatars/002f.jpg)"></span>
+                                                              style="background-image: url({{ asset('back/static/avatars/002f.jpg') }})"></span>
                                         </div>
                                         <div class="col">
                                             <div class="text-truncate">
@@ -431,7 +431,7 @@
                                     <div class="row">
                                         <div class="col-auto">
                                                         <span class="avatar"
-                                                              style="background-image: url(./static/avatars/003f.jpg)"></span>
+                                                              style="background-image: url({{ asset('back/static/avatars/003f.jpg') }})"></span>
                                         </div>
                                         <div class="col">
                                             <div class="text-truncate">
@@ -460,7 +460,7 @@
                                     <div class="row">
                                         <div class="col-auto">
                                                         <span class="avatar"
-                                                              style="background-image: url(./static/avatars/006m.jpg)"></span>
+                                                              style="background-image: url({{ asset('back/static/avatars/006m.jpg') }})"></span>
                                         </div>
                                         <div class="col">
                                             <div class="text-truncate">
@@ -475,7 +475,7 @@
                                     <div class="row">
                                         <div class="col-auto">
                                                         <span class="avatar"
-                                                              style="background-image: url(./static/avatars/004f.jpg)"></span>
+                                                              style="background-image: url({{ asset('back/static/avatars/004f.jpg') }})"></span>
                                         </div>
                                         <div class="col">
                                             <div class="text-truncate">
@@ -489,7 +489,7 @@
                                     <div class="row">
                                         <div class="col-auto">
                                                         <span class="avatar"
-                                                              style="background-image: url(./static/avatars/007m.jpg)"></span>
+                                                              style="background-image: url({{ asset('back/static/avatars/007m.jpg') }})"></span>
                                         </div>
                                         <div class="col">
                                             <div class="text-truncate">
@@ -517,7 +517,7 @@
                                     <div class="row">
                                         <div class="col-auto">
                                                         <span class="avatar"
-                                                              style="background-image: url(./static/avatars/009m.jpg)"></span>
+                                                              style="background-image: url({{ asset('back/static/avatars/009m.jpg') }})"></span>
                                         </div>
                                         <div class="col">
                                             <div class="text-truncate">
@@ -532,7 +532,7 @@
                                     <div class="row">
                                         <div class="col-auto">
                                                         <span class="avatar"
-                                                              style="background-image: url(./static/avatars/010m.jpg)"></span>
+                                                              style="background-image: url({{ asset('back/static/avatars/010m.jpg') }})"></span>
                                         </div>
                                         <div class="col">
                                             <div class="text-truncate">
@@ -546,7 +546,7 @@
                                     <div class="row">
                                         <div class="col-auto">
                                                         <span class="avatar"
-                                                              style="background-image: url(./static/avatars/005f.jpg)"></span>
+                                                              style="background-image: url({{ asset('back/static/avatars/005f.jpg') }})"></span>
                                         </div>
                                         <div class="col">
                                             <div class="text-truncate">
@@ -561,7 +561,7 @@
                                     <div class="row">
                                         <div class="col-auto">
                                                         <span class="avatar"
-                                                              style="background-image: url(./static/avatars/006f.jpg)"></span>
+                                                              style="background-image: url({{ asset('back/static/avatars/006f.jpg') }})"></span>
                                         </div>
                                         <div class="col">
                                             <div class="text-truncate">
@@ -636,7 +636,7 @@
                         <tr>
                             <td class="w-1">
                                             <span class="avatar avatar-sm"
-                                                  style="background-image: url(./static/avatars/000m.jpg)"></span>
+                                                  style="background-image: url({{ asset('back/static/avatars/000m.jpg') }})"></span>
                             </td>
                             <td class="td-truncate">
                                 <div class="text-truncate">
@@ -659,7 +659,7 @@
                         <tr>
                             <td class="w-1">
                                             <span class="avatar avatar-sm"
-                                                  style="background-image: url(./static/avatars/002m.jpg)"></span>
+                                                  style="background-image: url({{ asset('back/static/avatars/002m.jpg') }})"></span>
                             </td>
                             <td class="td-truncate">
                                 <div class="text-truncate">
@@ -671,7 +671,7 @@
                         <tr>
                             <td class="w-1">
                                             <span class="avatar avatar-sm"
-                                                  style="background-image: url(./static/avatars/003m.jpg)"></span>
+                                                  style="background-image: url({{ asset('back/static/avatars/003m.jpg') }})"></span>
                             </td>
                             <td class="td-truncate">
                                 <div class="text-truncate">
@@ -683,7 +683,7 @@
                         <tr>
                             <td class="w-1">
                                             <span class="avatar avatar-sm"
-                                                  style="background-image: url(./static/avatars/000f.jpg)"></span>
+                                                  style="background-image: url({{ asset('back/static/avatars/000f.jpg') }})"></span>
                             </td>
                             <td class="td-truncate">
                                 <div class="text-truncate">
@@ -897,7 +897,7 @@
         </div>
         <div class="col-md-6 col-lg-4">
             <a href="https://github.com/sponsors/codecalm" class="card card-sponsor" target="_blank"
-               rel="noopener" style="background-image: url(./static/sponsor-banner-homepage.svg)"
+               rel="noopener" style="background-image: url({{ asset('back/static/sponsor-banner-homepage.svg') }})"
                aria-label="Sponsor Tabler!">
                 <div class="card-body"></div>
             </a>
@@ -1041,7 +1041,7 @@
                             </td>
                             <td>
                                             <span class="avatar avatar-sm"
-                                                  style="background-image: url(./static/avatars/000m.jpg)"></span>
+                                                  style="background-image: url({{ asset('back/static/avatars/000m.jpg') }})"></span>
                             </td>
                         </tr>
                         <tr>
@@ -1150,7 +1150,7 @@
                             </td>
                             <td>
                                             <span class="avatar avatar-sm"
-                                                  style="background-image: url(./static/avatars/002m.jpg)"></span>
+                                                  style="background-image: url({{ asset('back/static/avatars/002m.jpg') }})"></span>
                             </td>
                         </tr>
                         <tr>
@@ -1205,7 +1205,7 @@
                             </td>
                             <td>
                                             <span class="avatar avatar-sm"
-                                                  style="background-image: url(./static/avatars/003m.jpg)"></span>
+                                                  style="background-image: url({{ asset('back/static/avatars/003m.jpg') }})"></span>
                             </td>
                         </tr>
                         <tr>
@@ -1260,7 +1260,7 @@
                             </td>
                             <td>
                                             <span class="avatar avatar-sm"
-                                                  style="background-image: url(./static/avatars/000f.jpg)"></span>
+                                                  style="background-image: url({{ asset('back/static/avatars/000f.jpg') }})"></span>
                             </td>
                         </tr>
                         <tr>
@@ -1315,7 +1315,7 @@
                             </td>
                             <td>
                                             <span class="avatar avatar-sm"
-                                                  style="background-image: url(./static/avatars/001f.jpg)"></span>
+                                                  style="background-image: url({{ asset('back/static/avatars/001f.jpg') }})"></span>
                             </td>
                         </tr>
                     </table>
